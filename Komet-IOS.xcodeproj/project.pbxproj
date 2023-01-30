@@ -11,6 +11,20 @@
 		DA9792FA2987AC67006093BD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9792F92987AC67006093BD /* ContentView.swift */; };
 		DA9792FC2987AC68006093BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA9792FB2987AC68006093BD /* Assets.xcassets */; };
 		DA9792FF2987AC68006093BD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA9792FE2987AC68006093BD /* Preview Assets.xcassets */; };
+		DA97930F2987B35C006093BD /* TTOctosquares-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA97930B2987B0B6006093BD /* TTOctosquares-Regular.ttf */; };
+		DA9793162987B734006093BD /* AccountHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9793152987B734006093BD /* AccountHome.swift */; };
+		DA9793182987B73D006093BD /* FlightInfoHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9793172987B73D006093BD /* FlightInfoHome.swift */; };
+		DA97931B2987B74F006093BD /* TimeStampHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA97931A2987B74F006093BD /* TimeStampHome.swift */; };
+		DA97931E2987B760006093BD /* FlightsHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA97931D2987B760006093BD /* FlightsHome.swift */; };
+		DA9793252987C2E0006093BD /* CurrentDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9793242987C2E0006093BD /* CurrentDate.swift */; };
+		DA9793292987C5D6006093BD /* DatetimeHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA9793282987C5D6006093BD /* DatetimeHeader.swift */; };
+		DA97932B2987CB2D006093BD /* AccountRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA97932A2987CB2D006093BD /* AccountRow.swift */; };
+		DA97932D2987CDFE006093BD /* AccountList.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA97932C2987CDFE006093BD /* AccountList.swift */; };
+		DA97932F2987D484006093BD /* TimestampBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA97932E2987D484006093BD /* TimestampBox.swift */; };
+		DA9793312987D4F1006093BD /* TTOctosquaresExp-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA9793302987D4F1006093BD /* TTOctosquaresExp-Bold.ttf */; };
+		DAC1D0C42987DC1A0012FE42 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC1D0C32987DC1A0012FE42 /* TimerView.swift */; };
+		DAC1D0C62987E0640012FE42 /* CurrentFlight.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAC1D0C52987E0640012FE42 /* CurrentFlight.swift */; };
+		DAC1D0C82987E1DF0012FE42 /* TTOctosquares-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DAC1D0C72987E1DF0012FE42 /* TTOctosquares-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,21 @@
 		DA9792F92987AC67006093BD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA9792FB2987AC68006093BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA9792FE2987AC68006093BD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA97930A2987AE5E006093BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		DA97930B2987B0B6006093BD /* TTOctosquares-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TTOctosquares-Regular.ttf"; sourceTree = "<group>"; };
+		DA9793152987B734006093BD /* AccountHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountHome.swift; sourceTree = "<group>"; };
+		DA9793172987B73D006093BD /* FlightInfoHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightInfoHome.swift; sourceTree = "<group>"; };
+		DA97931A2987B74F006093BD /* TimeStampHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeStampHome.swift; sourceTree = "<group>"; };
+		DA97931D2987B760006093BD /* FlightsHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightsHome.swift; sourceTree = "<group>"; };
+		DA9793242987C2E0006093BD /* CurrentDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentDate.swift; sourceTree = "<group>"; };
+		DA9793282987C5D6006093BD /* DatetimeHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatetimeHeader.swift; sourceTree = "<group>"; };
+		DA97932A2987CB2D006093BD /* AccountRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountRow.swift; sourceTree = "<group>"; };
+		DA97932C2987CDFE006093BD /* AccountList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountList.swift; sourceTree = "<group>"; };
+		DA97932E2987D484006093BD /* TimestampBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimestampBox.swift; sourceTree = "<group>"; };
+		DA9793302987D4F1006093BD /* TTOctosquaresExp-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TTOctosquaresExp-Bold.ttf"; sourceTree = "<group>"; };
+		DAC1D0C32987DC1A0012FE42 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		DAC1D0C52987E0640012FE42 /* CurrentFlight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentFlight.swift; sourceTree = "<group>"; };
+		DAC1D0C72987E1DF0012FE42 /* TTOctosquares-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TTOctosquares-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +80,12 @@
 		DA9792F62987AC67006093BD /* Komet-IOS */ = {
 			isa = PBXGroup;
 			children = (
+				DA97931F2987C21E006093BD /* Model */,
+				DA9793142987B67C006093BD /* Helpers */,
+				DA97930A2987AE5E006093BD /* Info.plist */,
+				DA9793072987AD3E006093BD /* Fonts */,
+				DA9793062987AD36006093BD /* Resources */,
+				DA9793052987AD2C006093BD /* Views */,
 				DA9792F72987AC67006093BD /* Komet_IOSApp.swift */,
 				DA9792F92987AC67006093BD /* ContentView.swift */,
 				DA9792FB2987AC68006093BD /* Assets.xcassets */,
@@ -65,6 +100,95 @@
 				DA9792FE2987AC68006093BD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		DA9793052987AD2C006093BD /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DA9793272987C5B9006093BD /* Helpers */,
+				DA9793132987B65F006093BD /* Flights */,
+				DA9793122987B656006093BD /* TimeStamp */,
+				DA9793112987B61C006093BD /* FlightInfo */,
+				DA9793102987B614006093BD /* Account */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		DA9793062987AD36006093BD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		DA9793072987AD3E006093BD /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				DA97930B2987B0B6006093BD /* TTOctosquares-Regular.ttf */,
+				DA9793302987D4F1006093BD /* TTOctosquaresExp-Bold.ttf */,
+				DAC1D0C72987E1DF0012FE42 /* TTOctosquares-Light.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		DA9793102987B614006093BD /* Account */ = {
+			isa = PBXGroup;
+			children = (
+				DA9793152987B734006093BD /* AccountHome.swift */,
+				DA97932A2987CB2D006093BD /* AccountRow.swift */,
+				DA97932C2987CDFE006093BD /* AccountList.swift */,
+			);
+			path = Account;
+			sourceTree = "<group>";
+		};
+		DA9793112987B61C006093BD /* FlightInfo */ = {
+			isa = PBXGroup;
+			children = (
+				DA9793172987B73D006093BD /* FlightInfoHome.swift */,
+			);
+			path = FlightInfo;
+			sourceTree = "<group>";
+		};
+		DA9793122987B656006093BD /* TimeStamp */ = {
+			isa = PBXGroup;
+			children = (
+				DA97931A2987B74F006093BD /* TimeStampHome.swift */,
+				DA97932E2987D484006093BD /* TimestampBox.swift */,
+				DAC1D0C52987E0640012FE42 /* CurrentFlight.swift */,
+			);
+			path = TimeStamp;
+			sourceTree = "<group>";
+		};
+		DA9793132987B65F006093BD /* Flights */ = {
+			isa = PBXGroup;
+			children = (
+				DA97931D2987B760006093BD /* FlightsHome.swift */,
+			);
+			path = Flights;
+			sourceTree = "<group>";
+		};
+		DA9793142987B67C006093BD /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		DA97931F2987C21E006093BD /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DA9793242987C2E0006093BD /* CurrentDate.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DA9793272987C5B9006093BD /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				DA9793282987C5D6006093BD /* DatetimeHeader.swift */,
+				DAC1D0C32987DC1A0012FE42 /* TimerView.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +250,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA9792FF2987AC68006093BD /* Preview Assets.xcassets in Resources */,
+				DA9793312987D4F1006093BD /* TTOctosquaresExp-Bold.ttf in Resources */,
+				DAC1D0C82987E1DF0012FE42 /* TTOctosquares-Light.ttf in Resources */,
 				DA9792FC2987AC68006093BD /* Assets.xcassets in Resources */,
+				DA97930F2987B35C006093BD /* TTOctosquares-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +264,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA97931B2987B74F006093BD /* TimeStampHome.swift in Sources */,
+				DA9793162987B734006093BD /* AccountHome.swift in Sources */,
+				DA9793252987C2E0006093BD /* CurrentDate.swift in Sources */,
 				DA9792FA2987AC67006093BD /* ContentView.swift in Sources */,
+				DA9793182987B73D006093BD /* FlightInfoHome.swift in Sources */,
+				DA97932D2987CDFE006093BD /* AccountList.swift in Sources */,
+				DAC1D0C42987DC1A0012FE42 /* TimerView.swift in Sources */,
+				DAC1D0C62987E0640012FE42 /* CurrentFlight.swift in Sources */,
+				DA9793292987C5D6006093BD /* DatetimeHeader.swift in Sources */,
+				DA97932B2987CB2D006093BD /* AccountRow.swift in Sources */,
+				DA97931E2987B760006093BD /* FlightsHome.swift in Sources */,
 				DA9792F82987AC67006093BD /* Komet_IOSApp.swift in Sources */,
+				DA97932F2987D484006093BD /* TimestampBox.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,8 +405,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Komet-IOS/Preview Content\"";
+				DEVELOPMENT_TEAM = 3S9L2FD3Y2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Komet-IOS/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -295,8 +435,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Komet-IOS/Preview Content\"";
+				DEVELOPMENT_TEAM = 3S9L2FD3Y2;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Komet-IOS/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
